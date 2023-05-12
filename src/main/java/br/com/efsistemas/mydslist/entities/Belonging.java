@@ -9,7 +9,7 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "tb_belongin")
+@Table(name = "TB_BELONGING")
 public class Belonging {
 
 	
